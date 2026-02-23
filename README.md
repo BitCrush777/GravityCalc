@@ -1,3 +1,6 @@
+<img width="611" height="983" alt="image" src="https://github.com/user-attachments/assets/6b8dbab3-2c66-49a6-8f87-afcc7426ff79" />
+
+
 # 🌌 GravityCalc
 
 **GravityCalc** is a modern **glassmorphism-style scientific calculator** built using **Jetpack Compose**.  
