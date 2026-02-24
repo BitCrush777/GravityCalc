@@ -55,9 +55,10 @@ It features a premium iOS-inspired UI, smooth animations, haptic feedback, and a
 ---
 
 ## 📱 Screenshots
-_(Add screenshots of your app UI here)_
 
----
+
+---![clac about pic](https://github.com/user-attachments/assets/9464f509-a436-409c-a690-7e80eb6cda7e)
+
 
 ## 🛠️ Tech Stack
 
